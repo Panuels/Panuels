@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Panuels
-- 👀 I’m interested in Cybersecurity and frontend development
-- 🌱 I’m currently learning frontend development + python
+- 👀 I’m interested in Cybersecurity and backend development
+- 🌱 I’m currently learning backend development + python 
 - 💞️ I’m looking to collaborate on projects that are amaizing
 - 📫 How to reach me panuelsc@gmail.com
 
